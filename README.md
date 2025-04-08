@@ -49,7 +49,7 @@ I started my coding journey with a love for **problem-solving**. Over time, this
 The idea behind this project was to create a secure and anonymous platform where users can connect without revealing their identity, making it ideal for both casual and private group discussions.
 
 <p align="center">
-  <img src="https://i.imgur.com/svT6FQw.gif" width="90%" alt="Chat UI Demo GIF" />
+  <img src="https://github.com/nr-jisan/nr-jisan/blob/main/AnonymousChatLogin.png?raw=true"/>
 </p>
 
 ---
