@@ -35,7 +35,7 @@ I started my coding journey with a love for **problem-solving**. Over time, this
 
 ## 💬 Highlight Project — **Anonymous Group Chat** 💡
 
-### 👨‍💻 [Anonymous Group Chat](https://github.com/nr-jisan/anonymous-group-chat)
+### 👨‍💻 [Anonymous Group Chat](https://github.com/nr-jisan/AnonymousChat-WebApp)
 
 **Anonymous Group Chat** is a **real-time group chat system** designed to allow **anonymous participation** while providing admins with full control over the chat environment.
 
