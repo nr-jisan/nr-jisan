@@ -26,7 +26,7 @@ I am passionate about creating technology that not only solves real-world proble
 
 I started my coding journey with a love for **problem-solving**. Over time, this turned into an interest in developing real-world applications that are efficient, scalable, and easy to use.
 
-- **C **: These language helped me understand the core concepts of computer science and algorithms. I worked on implementing algorithms, data structures, and more.
+- **C**: These language helped me understand the core concepts of computer science and algorithms. I worked on implementing algorithms, data structures, and more.
 - **Java**: I have used **Java** for building object-oriented applications, including GUI-based projects. My focus was on clean architecture and intuitive design.
 - **Full-Stack Development**: With my interest in web development, I expanded into **Node.js**, **Express**, and **MySQL**, allowing me to create full-fledged web applications that are both functional and dynamic.
 - **UI/UX Design**: I also delve into the **design aspect**, making sure the interfaces I build are beautiful and user-friendly, with an emphasis on clean, minimalistic designs
